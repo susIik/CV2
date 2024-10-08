@@ -120,7 +120,7 @@
       <workItem from="1717953653751" duration="15000" />
       <workItem from="1718611118417" duration="971000" />
       <workItem from="1718637259535" duration="599000" />
-      <workItem from="1728380869181" duration="300000" />
+      <workItem from="1728380869181" duration="1665000" />
     </task>
     <task id="LOCAL-00001" summary="removed some vspace">
       <created>1664819843972</created>
@@ -192,7 +192,14 @@
       <option name="project" value="LOCAL" />
       <updated>1714071420747</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Add education">
+      <created>1728381247986</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1728381247986</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -204,6 +211,7 @@
     <MESSAGE value="updated" />
     <MESSAGE value="Fixed spelling" />
     <MESSAGE value="Bold" />
-    <option name="LAST_COMMIT_MESSAGE" value="Bold" />
+    <MESSAGE value="Add education" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add education" />
   </component>
 </project>
