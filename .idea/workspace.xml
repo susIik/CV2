@@ -30,16 +30,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "F:/Documents/Solidworks_files/maze/remix-of-Russian-Doll-Maze-Puzzle-Box",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration default="true" type="LATEX_RUN_CONFIGURATION" factoryName="LaTeX configuration factory">
       <texify>
@@ -122,7 +125,9 @@
       <workItem from="1718637259535" duration="599000" />
       <workItem from="1728380869181" duration="1686000" />
       <workItem from="1728728058340" duration="19000" />
-      <workItem from="1729509395343" duration="701000" />
+      <workItem from="1729509395343" duration="1314000" />
+      <workItem from="1730465398959" duration="69000" />
+      <workItem from="1742065765825" duration="1679000" />
     </task>
     <task id="LOCAL-00001" summary="removed some vspace">
       <created>1664819843972</created>
@@ -208,7 +213,14 @@
       <option name="project" value="LOCAL" />
       <updated>1728389368583</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="change wording">
+      <created>1729510113508</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1729510113508</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -222,6 +234,7 @@
     <MESSAGE value="Bold" />
     <MESSAGE value="Add education" />
     <MESSAGE value="Remove welding" />
-    <option name="LAST_COMMIT_MESSAGE" value="Remove welding" />
+    <MESSAGE value="change wording" />
+    <option name="LAST_COMMIT_MESSAGE" value="change wording" />
   </component>
 </project>
